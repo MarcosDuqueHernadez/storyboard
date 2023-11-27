@@ -1,48 +1,164 @@
-<div class="toolbar">
-    <img src="https://res.cloudinary.com/dxoszbbna/image/upload/v1700723546/logo-nombre_i28xnb.png" alt="imagen-storyboard">
-</div>
+<nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#"></a>
+        <img class="ms-5" src="https://res.cloudinary.com/dxoszbbna/image/upload/v1701030398/logo2_oyuugv.png"
+            alt="imagen-storyboard">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav w-100">
+                <label class="mt-3 mx-2">COMUNIDAD</label>
+                <label class="mt-3 mx-2">SOPORTE TÉCNICO</label>
+                <label class="mt-3 ms-2 me-3">TIENDA</label>
+                <button class="d-none d-md-none d-lg-block ms-auto btn-descubre">EMPEZAR A JUGAR</button>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
 <div class="container mt-200x">
     <div class="banner text-center px-5 text-md-center text-lg-start">
         <h1>
             TE DAMOS LA BIENVENIDA <br>
-            AL SITIO OFICIAL DE <br> STORYBOARD
+            AL SITIO OFICIAL DE <br> EL LEGADO DE LOS ELEMENTOS
         </h1><br>
         <p>
             Con sus nuevos juegos, nuevas actualizaciones y nuevas formas <br>
             de jugar, ¡únete a una de las comunidades de juegos más <br>
-             divertidas y empieza a crear hoy mismo!
+            divertidas y empieza a crear hoy mismo!
         </p>
-        <button class="btn-descubre">JUGAR STORYBOARD</button>
+        <button class="btn-descubre">EMPEZAR A JUGAR</button>
     </div>
 
-    <div class="row mt-5">
-        <div class="col-lg-6 col-md-12 col-12">
-            <div class="tarjeta">
-
+    <div class="w-100 card-notice text-white my-4">
+        <h2>ÚLTIMAS NOTICIAS</h2>
+    </div>
+    <div class="d-none d-lg-block mb-5">
+        <div class="grid-flex justify-content-center">
+            <div class="tarjeta img-1 p-3 text-white">
+                <h3>Actualizaciones de Contenido Próximas</h3>
+                <hr>
+                <p>Prepárate para sumergirte en las profundidades del Reino Submarino en
+                    nuestra próxima actualización.
+                    Mira los adelantos visuales y prepárate para una aventura submarina que cambiará el juego para
+                    siempre.
+                </p>
             </div>
-        </div>
-        <div class="col-lg-6 col-md-12 col-12">
-            <div class="tarjeta">
 
+            <div class="tarjeta img-2 p-3 text-white">
+                <h3>Exploración de Tierras Desconocidas</h3>
+                <hr>
+                <p>
+                    En la próxima actualización, desbloquearemos un continente inexplorado lleno de secretos ancestrales
+                    y desafíos épicos. Desde selvas místicas hasta desiertos ardientes, la exploración será clave.
+                </p>
+            </div>
+            <div class="tarjeta img-3 p-3 text-white">
+                <h3>Se Anuncia el Torneo de los Elementos</h3>
+                <hr>
+                <p>
+                    Conquista pruebas elementales, mejora tu equipo con poderes específicos y compite contra los mejores
+                    aventureros. ¿Tienes lo necesario para convertirte en el Campeón de los Elementos? Prepárate para
+                    una experiencia única de juego estratégico.
+                </p>
             </div>
         </div>
     </div>
-    <div class="row mt-5 mb-5">
-        <div class="col-lg-6 col-md-12 col-12">
-            <div class="tarjeta">
 
+    <!-- NOTICIAS MOVIL -->
+    <div class="d-block d-sm-none d-md-block d-lg-none mb-5">
+        <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div class="tarjeta-movil img-1">
+                    <h3>Actualizaciones de Contenido Próximas:</h3>
+                    <hr>
+                    <p class="fw-semibold">Prepárate para sumergirte en las profundidades del Reino Submarino en
+                        nuestra próxima actualización.
+                        Mira los adelantos visuales y prepárate para una aventura submarina que cambiará el juego para
+                        siempre.
+                    </p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="tarjeta-movil img-2">
+                    <h3>Exploración de Tierras Desconocidas:</h3>
+                    <hr>
+                    <p class="fw-semibold">En la próxima actualización, desbloquearemos un continente inexplorado lleno de secretos ancestrales
+                        y desafíos épicos. Desde selvas místicas hasta desiertos ardientes, la exploración será clave.
+                    </p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="tarjeta-movil img-3">
+                    <h3>Se Anuncia el Torneo de los Elementos</h3>
+                    <hr>
+                    <p>
+                        Conquista pruebas elementales, mejora tu equipo con poderes específicos y compite contra los mejores
+                        aventureros. ¿Tienes lo necesario para convertirte en el Campeón de los Elementos? Prepárate para
+                        una experiencia única de juego estratégico.
+                    </p>
+                </div>
+              </div>
             </div>
-        </div>
-        <div class="col-lg-6 col-md-12 col-12">
-            <div class="tarjeta">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+    </div>
 
+
+    <div class="tarjeta-sub mb-5">
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-6">
+                <h2>
+                    SUSCRÍBETE PARA RECIBIR NOTICIAS
+                </h2>
+                <p class="fs-5 fw-semibold">
+                    Suscríbete hoy mismo para recibir las últimas noticias, videos, ofertas y más por correo electrónico (incluidas otras noticias de nosotros, productos, eventos y promociones).
+                </p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Correo electrónico" aria-label="Username" aria-describedby="basic-addon1">
+                </div>
+                <div class="d-flex">
+                    <div class="w-50 me-3">
+                        <input type="date" class="w-100 form-control" placeholder="Correo electrónico" aria-label="Username" aria-describedby="basic-addon1">
+                    </div>
+                        <select class="form-select w-50" id="inputGroupSelect01">
+                            <option selected>País</option>
+                            <option value="1">México</option>
+                            <option value="2">Estados Unidos</option>
+                            <option value="3">Alemania</option>
+                        </select>
+                </div>
+                <div class="form-check mt-3 fs-6">
+                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                    <label class="form-check-label" for="flexCheckDefault">
+                        Puedo cancelar mi suscripción en cualquier momento cambiando mis preferencias de correo electrónico, comunicándome con admin@quality.com o escribiendo a Quality Dev Inc., 
+                        Carrtera Saltillo-Monterrey; 615 C.P; Santa Catarina, NL.
+                    </label>
+                  </div>
             </div>
         </div>
     </div>
-
-    
-
 </div>
-<div class="footer-custom">
-
+<div class="footer-custom p-5">
+    <div class="d-flex">
+        <label>Acerca de nosotros</label>
+        <label>Centro de ayuda</label>
+    </div>
+    <div class="d-flex">
+        <label>Información legal y privacidad</label>
+        <label>© 2023 QualityDev</label>
+    </div>
 </div>
