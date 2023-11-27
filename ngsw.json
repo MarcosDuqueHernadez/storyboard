@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701053079601,
+  "timestamp": 1701066469249,
   "index": "https://MarcosDuqueHernadez.github.io/storyboard/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://MarcosDuqueHernadez.github.io/storyboard/favicon.ico",
         "https://MarcosDuqueHernadez.github.io/storyboard/index.html",
-        "https://MarcosDuqueHernadez.github.io/storyboard/main.9e1bbe1dafa85575.js",
+        "https://MarcosDuqueHernadez.github.io/storyboard/main.45adbd866ba27ef9.js",
         "https://MarcosDuqueHernadez.github.io/storyboard/manifest.webmanifest",
         "https://MarcosDuqueHernadez.github.io/storyboard/polyfills.c2f7800c6f43ecee.js",
         "https://MarcosDuqueHernadez.github.io/storyboard/runtime.d9bcf02728c1bfa3.js",
-        "https://MarcosDuqueHernadez.github.io/storyboard/styles.d51caec1a0cfb8c0.css"
+        "https://MarcosDuqueHernadez.github.io/storyboard/styles.7196dfa38a430db6.css"
       ],
       "patterns": []
     },
@@ -52,12 +52,12 @@
     "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "https://MarcosDuqueHernadez.github.io/storyboard/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://MarcosDuqueHernadez.github.io/storyboard/index.html": "3db10f669de879b074f6081bb7b43cccbb3869dc",
-    "https://MarcosDuqueHernadez.github.io/storyboard/main.9e1bbe1dafa85575.js": "a6c9ee2d83452ba27934471e8a05d9e82b8f35b6",
+    "https://MarcosDuqueHernadez.github.io/storyboard/index.html": "c65fd20ff41f9f16269d2994b5aa14a726e9f73d",
+    "https://MarcosDuqueHernadez.github.io/storyboard/main.45adbd866ba27ef9.js": "595c75b6e45c7a2a24630b0c37fd8a088a051626",
     "https://MarcosDuqueHernadez.github.io/storyboard/manifest.webmanifest": "40909d23a8583ed89eb70aed7a4b3e38e05d1291",
     "https://MarcosDuqueHernadez.github.io/storyboard/polyfills.c2f7800c6f43ecee.js": "c60d4021d2f58870991b4d946d6b64816c66fba1",
     "https://MarcosDuqueHernadez.github.io/storyboard/runtime.d9bcf02728c1bfa3.js": "df90ebde080ab0fa13db327f62ff2ef746133b36",
-    "https://MarcosDuqueHernadez.github.io/storyboard/styles.d51caec1a0cfb8c0.css": "2b579b1a7f5ac89db41571fd80cb3288a8947819"
+    "https://MarcosDuqueHernadez.github.io/storyboard/styles.7196dfa38a430db6.css": "b318fe173f6f165b2bf966f97f11976f36f337c1"
   },
   "navigationUrls": [
     {
