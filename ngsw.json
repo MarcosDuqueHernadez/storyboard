@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1701053079601,
+  "index": "https://MarcosDuqueHernadez.github.io/storyboard/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://MarcosDuqueHernadez.github.io/storyboard/favicon.ico",
+        "https://MarcosDuqueHernadez.github.io/storyboard/index.html",
+        "https://MarcosDuqueHernadez.github.io/storyboard/main.9e1bbe1dafa85575.js",
+        "https://MarcosDuqueHernadez.github.io/storyboard/manifest.webmanifest",
+        "https://MarcosDuqueHernadez.github.io/storyboard/polyfills.c2f7800c6f43ecee.js",
+        "https://MarcosDuqueHernadez.github.io/storyboard/runtime.d9bcf02728c1bfa3.js",
+        "https://MarcosDuqueHernadez.github.io/storyboard/styles.d51caec1a0cfb8c0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-128x128.png",
+        "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-144x144.png",
+        "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-152x152.png",
+        "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-192x192.png",
+        "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-384x384.png",
+        "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-512x512.png",
+        "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-72x72.png",
+        "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://MarcosDuqueHernadez.github.io/storyboard/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://MarcosDuqueHernadez.github.io/storyboard/index.html": "3db10f669de879b074f6081bb7b43cccbb3869dc",
+    "https://MarcosDuqueHernadez.github.io/storyboard/main.9e1bbe1dafa85575.js": "a6c9ee2d83452ba27934471e8a05d9e82b8f35b6",
+    "https://MarcosDuqueHernadez.github.io/storyboard/manifest.webmanifest": "40909d23a8583ed89eb70aed7a4b3e38e05d1291",
+    "https://MarcosDuqueHernadez.github.io/storyboard/polyfills.c2f7800c6f43ecee.js": "c60d4021d2f58870991b4d946d6b64816c66fba1",
+    "https://MarcosDuqueHernadez.github.io/storyboard/runtime.d9bcf02728c1bfa3.js": "df90ebde080ab0fa13db327f62ff2ef746133b36",
+    "https://MarcosDuqueHernadez.github.io/storyboard/styles.d51caec1a0cfb8c0.css": "2b579b1a7f5ac89db41571fd80cb3288a8947819"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
