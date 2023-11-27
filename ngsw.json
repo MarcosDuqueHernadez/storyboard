@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701066469249,
+  "timestamp": 1701123631178,
   "index": "https://MarcosDuqueHernadez.github.io/storyboard/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://MarcosDuqueHernadez.github.io/storyboard/favicon.ico",
         "https://MarcosDuqueHernadez.github.io/storyboard/index.html",
-        "https://MarcosDuqueHernadez.github.io/storyboard/main.45adbd866ba27ef9.js",
+        "https://MarcosDuqueHernadez.github.io/storyboard/main.a87cf13a23e17d65.js",
         "https://MarcosDuqueHernadez.github.io/storyboard/manifest.webmanifest",
         "https://MarcosDuqueHernadez.github.io/storyboard/polyfills.c2f7800c6f43ecee.js",
         "https://MarcosDuqueHernadez.github.io/storyboard/runtime.d9bcf02728c1bfa3.js",
@@ -52,8 +52,8 @@
     "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "https://MarcosDuqueHernadez.github.io/storyboard/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "https://MarcosDuqueHernadez.github.io/storyboard/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://MarcosDuqueHernadez.github.io/storyboard/index.html": "c65fd20ff41f9f16269d2994b5aa14a726e9f73d",
-    "https://MarcosDuqueHernadez.github.io/storyboard/main.45adbd866ba27ef9.js": "595c75b6e45c7a2a24630b0c37fd8a088a051626",
+    "https://MarcosDuqueHernadez.github.io/storyboard/index.html": "178b95a40bbd3d4a98150180d783f4f1cb257f25",
+    "https://MarcosDuqueHernadez.github.io/storyboard/main.a87cf13a23e17d65.js": "2fd11084caa697b1798d15a47e8c19d16f72bcc5",
     "https://MarcosDuqueHernadez.github.io/storyboard/manifest.webmanifest": "40909d23a8583ed89eb70aed7a4b3e38e05d1291",
     "https://MarcosDuqueHernadez.github.io/storyboard/polyfills.c2f7800c6f43ecee.js": "c60d4021d2f58870991b4d946d6b64816c66fba1",
     "https://MarcosDuqueHernadez.github.io/storyboard/runtime.d9bcf02728c1bfa3.js": "df90ebde080ab0fa13db327f62ff2ef746133b36",
