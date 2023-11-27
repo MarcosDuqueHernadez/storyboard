@@ -5,11 +5,17 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { MainComponent } from './main/main.component';
+import { AcercaDeComponent } from './acerca-de/acerca-de.component';
+import { CreditosComponent } from './creditos/creditos.component';
+import { GaleriaComponent } from './galeria/galeria.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    MainComponent
+    MainComponent,
+    AcercaDeComponent,
+    CreditosComponent,
+    GaleriaComponent
   ],
   imports: [
     BrowserModule,

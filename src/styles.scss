@@ -7,3 +7,64 @@ body{
     
     margin: 0;
 }
+.mt-200x{
+    margin-top: 180px;
+}
+
+.navbar{
+    min-height: 110px !important;
+    background-color: black !important;
+    padding: 10px 30px;
+    label{
+        color: white !important;
+        font-weight: 500;
+        font-size: 16px;
+        cursor: pointer;
+        &:hover{
+            color: #4cbc38 !important;
+        }
+    }
+    img{
+        width: 200px;
+        cursor: pointer;
+    }
+
+    .navbar-toggler{
+        background-color: white !important;
+    }
+}
+
+.footer-custom{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    color: #5e6267;
+    font-size: 16px;
+    font-weight: 500;
+    label{
+        cursor: pointer;
+        &:hover{
+            color: #7c8188;
+        }
+    }
+}
+
+.btn-descubre{
+    width: 200px;
+    height: 50px;
+    background-color: #4cbc38;
+    color: white;
+    border-radius: 5px;
+    box-shadow: none;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    &:hover{
+        background-color: #3e9e2d;
+    }
+}
+
+.btn-descubre-movil{
+    @extend .btn-descubre;
+    height: 30px;
+}
